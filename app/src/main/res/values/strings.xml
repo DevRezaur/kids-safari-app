@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kids Safari App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kids_safari_app">Kids Safari App</string>
+    <string name="start">Start Exploring</string>
+    <string name="image">image</string>
+    <string name="pick_a_name">Pick a Name</string>
+    <string name="left_arrow">&lt;</string>
+    <string name="right_arrow">&gt;</string>
+    <string name="about">About the Developer</string>
+    <string name="default_msg">Select a Name and Start Exploring</string>
+    <string name="lion">Lion</string>
+    <string name="monkey">Monkey</string>
+    <string name="horse">Horse</string>
+    <string name="bird">Bird</string>
+    <string name="tiger">Tiger</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="rhino">Rhino</string>
+    <string name="about_page">About Page</string>
+    <string name="about_info">Name: Rezaur Rahman\nID: 181-15-10595\nSection: O12/E\nDepartment: CSE
+        \nBatch: 49th Batch\nDaffodil International University</string>
+</resources>
