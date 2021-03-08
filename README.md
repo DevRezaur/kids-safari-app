@@ -14,15 +14,27 @@ This is a very basic android app targeted towards kids. This was made as my acad
 
 ![Screenshot 3](https://raw.githubusercontent.com/DevRezaur/kids-safari-app/main/screenshots/Bird%20Fragment.jpg)
 
+---
+
 ![Screenshot 3](https://raw.githubusercontent.com/DevRezaur/kids-safari-app/main/screenshots/Giraffe%20Fragment.jpg)
+
+---
 
 ![Screenshot 3](https://raw.githubusercontent.com/DevRezaur/kids-safari-app/main/screenshots/Horse%20Fragment.jpg)
 
+---
+
 ![Screenshot 3](https://raw.githubusercontent.com/DevRezaur/kids-safari-app/main/screenshots/Lion%20Fragment.jpg)
+
+---
 
 ![Screenshot 3](https://raw.githubusercontent.com/DevRezaur/kids-safari-app/main/screenshots/Monkey%20Fragment.jpg)
 
+---
+
 ![Screenshot 3](https://raw.githubusercontent.com/DevRezaur/kids-safari-app/main/screenshots/Rhino%20Fragment.jpg)
+
+---
 
 ![Screenshot 3](https://raw.githubusercontent.com/DevRezaur/kids-safari-app/main/screenshots/Tiger%20Fragment.jpg)
 
